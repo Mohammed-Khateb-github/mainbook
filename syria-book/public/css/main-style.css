@@ -1,0 +1,39 @@
+.rtl{
+    text-align: right;
+    direction: rtl;
+}
+.ltr{
+    text-align: left;
+    direction: ltr;
+}
+.form-control{
+    border-radius: 0px;
+    border: none;
+    box-shadow: 0px 0px 2px 1px #e1e1e1;
+}
+.form-control:hover{
+    border:none;
+    box-shadow: 0px 0px 1px 1px #b9b9b9;
+}
+.form-control:focus{
+    border:none;
+    box-shadow: 0px 0px 1px 1px #b9b9b9;
+}
+.btn{
+    border-radius: 3px;
+}
+.btn:hover , .btn:focus{
+    box-shadow: none;
+}
+.pointer{
+    cursor: pointer;
+}
+.card{
+    padding: 0px;
+}
+.ml-10{
+    margin-left: 10px;
+}
+.bp-5{
+    padding-bottom:5px;
+}
